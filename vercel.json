@@ -1,5 +1,5 @@
 {
-    "build": {
-      "distDir": "dist"
-    }
+  "build": {
+    "outputDirectory": "dist"
   }
+}
